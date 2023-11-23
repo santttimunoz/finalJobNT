@@ -1,0 +1,4 @@
+﻿NombreProyecto,ID_Empleado,ID_Proyecto,Nombre,Departamento,ID,Año,Trimestre,Mes,Día,Año,Trimestre,Mes,Día,ID
+Proyecto A,1,101,Juan Pérez,TI,1,2023,Trim. 1,marzo,1,2023,Trim. 1,enero,1,101
+Proyecto B,2,102,María Gómez,Ventas,2,2023,Trim. 2,abril,1,2023,Trim. 1,febrero,1,102
+Proyecto C,3,103,Carlos Rodríguez,Marketing,3,2023,Trim. 2,mayo,1,2023,Trim. 1,marzo,1,103
